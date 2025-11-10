@@ -1,5 +1,6 @@
 {
 	"name": "Happy Dog Collection",
-	"description": "A fun collection for dog lovers",
+	"symbol": "HAPPYDOG",
+	"description": "A happy dog NFT collection",
 	"image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/happy-dog.png"
 }
