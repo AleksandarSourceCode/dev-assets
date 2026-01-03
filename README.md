@@ -19,16 +19,6 @@ multiple collections and long-term scalability.
 
 ---
 
-## Legacy Assets
-
-Some files exist at the repository root level.
-These assets are already referenced by on-chain metadata and must not be removed,
-renamed, or relocated.
-
-They are preserved strictly for backward compatibility.
-
----
-
 ## Usage
 
 Typical asset usage flow:
