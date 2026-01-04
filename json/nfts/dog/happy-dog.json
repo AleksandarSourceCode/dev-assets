@@ -1,0 +1,20 @@
+{
+  "name": "Happy Dog",
+  "symbol": "DOG",
+  "description": "A playful and happy dog NFT created for dog lovers on Solana.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/dog/happy-dog.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Dog" },
+    { "trait_type": "Mood", "value": "Happy" },
+    { "trait_type": "Energy", "value": "High" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/dog/happy-dog.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

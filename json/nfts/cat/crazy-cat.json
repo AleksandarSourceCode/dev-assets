@@ -1,0 +1,20 @@
+{
+  "name": "Crazy Cat",
+  "symbol": "CAT",
+  "description": "A crazy and energetic cat.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/cat/crazy-cat.png",
+  "attributes": [
+    { "trait_type": "Species", "value": "Cat" },
+    { "trait_type": "Mood", "value": "Crazy" },
+    { "trait_type": "Energy", "value": "High" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/cat/crazy-cat.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
