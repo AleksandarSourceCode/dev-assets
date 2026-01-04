@@ -1,11 +1,11 @@
 {
   "name": "WOW NFT #3",
   "symbol": "WOW",
-  "description": "A futuristic warrior from the WOW-inspired universe.",
-  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow-image3.png",
+  "description": "A warrior from the WOW-inspired universe.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow3.png",
   "attributes": [
     { "trait_type": "Role", "value": "Warrior" },
-    { "trait_type": "Style", "value": "Futuristic" },
+    { "trait_type": "Style", "value": "Fantasy" },
     { "trait_type": "Universe", "value": "WOW" }
   ],
   "collection": {
@@ -16,7 +16,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow-image3.png",
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow3.png",
         "type": "image/png"
       }
     ]

@@ -1,8 +1,8 @@
 {
-  "name": "WOW NFT #2",
+  "name": "WOW NFT #9",
   "symbol": "WOW",
   "description": "A warrior from the WOW-inspired universe.",
-  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow2.png",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow9.png",
   "attributes": [
     { "trait_type": "Role", "value": "Warrior" },
     { "trait_type": "Style", "value": "Fantasy" },
@@ -16,7 +16,7 @@
     "category": "image",
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow2.png",
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow9.png",
         "type": "image/png"
       }
     ]
