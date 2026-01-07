@@ -1,0 +1,24 @@
+{
+  "name": "WOW NFT #13",
+  "symbol": "WOW",
+  "description": "A warrior from the WOW-inspired universe.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow13.png",
+  "attributes": [
+    { "trait_type": "Role", "value": "Warrior" },
+    { "trait_type": "Style", "value": "Fantasy" },
+    { "trait_type": "Universe", "value": "WOW" }
+  ],
+  "collection": {
+    "name": "WOW NFT Collection",
+    "family": "WOW"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow13.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
