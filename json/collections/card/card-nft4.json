@@ -1,0 +1,25 @@
+{
+  "name": "Member Status – Rank IV",
+  "symbol": "STATUS",
+  "description": "A rank-based NFT representing earned membership status within the reward system.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/card/card4.png",
+  "attributes": [
+    { "trait_type": "Status Rank", "value": "IV" },
+    { "trait_type": "Rank Order", "value": "Low" },
+    { "trait_type": "Membership", "value": "Member" },
+    { "trait_type": "Year", "value": "2026" }
+  ],
+  "collection": {
+    "name": "Member Status Collection",
+    "family": "Member Status"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/card/card4.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
