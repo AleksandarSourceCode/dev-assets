@@ -1,0 +1,15 @@
+{
+  "name": "WOW NFT Collection",
+  "symbol": "WOW",
+  "description": "A fantasy NFT collection inspired by epic worlds.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow-collection.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow-collection.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
