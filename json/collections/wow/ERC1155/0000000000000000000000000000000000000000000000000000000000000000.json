@@ -1,0 +1,8 @@
+{
+  "name": "WOW Gold",
+  "symbol": "WOWG",
+  "description": "The primary utility currency for the WOW ecosystem, used for trading and upgrades.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/wow/wow-gold.png",
+  "external_url": "https://github.com/AleksandarSourceCode/dev-assets/tree/main/images/wow",
+  "decimals": 18
+}

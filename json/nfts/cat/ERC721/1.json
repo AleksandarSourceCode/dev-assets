@@ -1,0 +1,11 @@
+{
+  "name": "Angry Cat",
+  "description": "A angry and energetic cat.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/cat/angry-cat.png",
+  "external_url": "https://github.com/AleksandarSourceCode/dev-assets/tree/main/images/cat",
+  "attributes": [
+    { "trait_type": "Species", "value": "Cat" },
+    { "trait_type": "Mood", "value": "Angry" },
+    { "trait_type": "Energy", "value": "High" }
+  ]
+}

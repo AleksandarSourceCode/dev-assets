@@ -1,0 +1,11 @@
+{
+  "name": "Scared Cat",
+  "description": "A scared but cute cat.",
+  "image": "https://raw.githubusercontent.com/AleksandarSourceCode/dev-assets/main/images/cat/scared-cat.png",
+  "external_url": "https://github.com/AleksandarSourceCode/dev-assets/tree/main/images/cat",
+  "attributes": [
+    { "trait_type": "Species", "value": "Cat" },
+    { "trait_type": "Mood", "value": "Scared" },
+    { "trait_type": "Temperament", "value": "Shy" }
+  ]
+}
